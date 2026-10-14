@@ -2,7 +2,7 @@
 
 Denim clothing brand website, starting with bootcut jeans and other fits.
 
-Website: https://relict-denim.sochiktm2.chatgpt.site
+Website: https://riganroots.github.io/relict/
 
 ## Source
 
@@ -16,4 +16,8 @@ The homepage and denim gallery include supplied photos. Replace the remaining il
 
 ## Deployment
 
-The existing website is hosted with ChatGPT Sites and currently has private access. This GitHub repository stores the website source. GitHub commits do not automatically deploy to the existing Sites address; publication is managed separately through Sites.
+The public website is hosted on GitHub Pages at https://riganroots.github.io/relict/.
+
+GitHub Pages publishes the root of the `gh-pages` branch. The editable source is in `main` under `dist/`. To publish an update, synchronize the contents of `dist/` to the root of `gh-pages`, preserving `.nojekyll`. Updates to `main` alone do not automatically publish.
+
+The earlier ChatGPT Sites copy remains separate.
