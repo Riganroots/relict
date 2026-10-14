@@ -12,7 +12,7 @@ Includes fit filters, preferred waist selection, a device-local shopping bag, an
 
 ## Before opening orders
 
-Replace concept illustrations with real product photos. Confirm product names, prices, measurements, stock, contact information, shipping and returns policies. Checkout, payment processing and order storage are not connected.
+The homepage and denim gallery include supplied photos. Replace the remaining illustrative product cards with confirmed product listings. Confirm product names, prices, measurements, stock, contact information, shipping and returns policies. Checkout, payment processing and order storage are not connected.
 
 ## Deployment
 
